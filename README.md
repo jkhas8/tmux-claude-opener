@@ -15,7 +15,7 @@ It works by capturing the text from your AI assistant's pane, finding the name o
 1.  Add the plugin to your list of TPM plugins in `.tmux.conf`:
 
     ```tmux
-    set -g @plugin 'your-github-username/tmux-claude-opener'
+    set -g @plugin 'jkhas8/tmux-claude-opener'
     ```
 
 2.  Press `prefix + I` to fetch the plugin and source it.
